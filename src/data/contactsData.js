@@ -10,13 +10,14 @@ export const contactsData = [
     contactName: "Mukes Challani",
     phone: "+91 9244550030",
     email: "info@darshantraavels.com"
+
   },
   {
     id: 2,
     category: "Airlines",
     companyName: "Skyward Air",
     city: "Chicago",
-    state: "IL",
+    state: "MP",
     zipCode: "60601",
     country: "USA",
     contactName: "Jane Smith",
